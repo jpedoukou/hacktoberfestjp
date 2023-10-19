@@ -2849,4 +2849,10 @@
 - Place: Kolkata, WB, India
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
+  
+#### Name: [JP Edoukou](https://github.com/jpedoukou)
+
+- Place: Washington, USA
+- Bio: I am a high school student.
+- GitHub: [jpedoukou](https://github.com/jpedoukou)
 
